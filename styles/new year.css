@@ -1,0 +1,75 @@
+.header{
+    background-image: url('../images/banner/banner2.png');
+    height: 700px;
+    margin-top: 0;
+}
+.banner-title{
+    text-align: right;
+
+    position: absolute;
+    
+    width: 525px;
+    height: 228px;
+    left: 600px;
+    top: 250px;
+
+    font-weight: 700;
+font-size: 60px;
+line-height: 50px;
+    
+}
+.banner-description{
+    text-align: right;
+    position: absolute;
+    width: 400px;
+    left: 720px;
+    top: 450px;
+    color: #444343;
+}
+.btn-primary{
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 960px;
+    top: 578px;
+    border: none;
+    background-color: #e57729;
+    color: aliceblue;
+    border-radius: 10px;
+
+
+}
+/* section styles */
+.section{
+    display: flex;
+}
+.section-title{
+    position: absolute;
+    width: 288px;
+    left: 700px;
+    top: 1100px;
+    font-size: 40px;
+    
+}
+.section-description{
+    position: absolute;
+width: 350px;
+height: 108.16px;
+left: 700px;
+top: 1240px;
+
+}
+.img-edit{
+    position: absolute;
+width: 300px;
+height: 300px;
+left: 80px;
+top: 900px;
+
+
+}
+.ul-style{
+    position: absolute;
+    left: 675px;
+    top: 1330px;
+}
